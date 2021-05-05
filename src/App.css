@@ -2,3 +2,7 @@
   text-align: center;
   align-self: center;
 }
+.network {
+  display: flex;
+  justify-content: space-around ;
+}
